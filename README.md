@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+I am an AI-driven SDET / Software Engineer with 3+ years of experience designing scalable test automation frameworks and improving release confidence across E-commerce, OTT, and EdTech domains.<br><br>Currently working as a Software Engineer at PluginHive, I build end-to-end quality engineering solutions for complex Shopify-based e-commerce applications, ensuring stable, reliable, and production-ready releases at scale.<br><br>My expertise includes modern automation using Playwright with TypeScript, along with Selenium-based frameworks, API validation, and performance testing. I am actively working on AI-powered testing solutions, developing intelligent systems for:<br><br>AI-based failure analysis and root cause detection<br><br>Release risk prediction and quality insights<br><br>Self-healing locator strategies<br><br>Automated Slack reporting with CI/CD integration<br><br>Previously at JioCinema, I validated critical user journeys across Web, Android, iOS, and Smart TV, improving production stability and identifying high-impact issues before release.<br><br>Core Skills<br><br>Automation: Playwright (TypeScript), Selenium, TestNG<br>API Testing: REST, GraphQL, Postman<br>Performance: JMeter<br>AI in QA: Failure analysis, risk engine, self-healing automation<br>CI/CD & Tools: GitHub Actions, Jenkins, Docker, BrowserStack<br>Domains: Shopify E-commerce, OTT, EdTech<br><br>I’m passionate about building engineering-driven quality platforms that leverage automation and AI to enable faster, safer, and smarter software releases.<br><br>Always open to discussions on AI in Testing, Playwright architecture, and modern SDET practices.
 
-<!--
-**madankumaras/madankumaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madankumar-sdet) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madangowda8095@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=madankumaras&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=madankumaras&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=madankumaras&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=madankumaras&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=madankumaras&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
