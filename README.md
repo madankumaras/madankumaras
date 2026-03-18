@@ -14,8 +14,10 @@ I am an AI-driven SDET / Software Engineer with 3+ years of experience designing
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=madankumaras&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Quickdraw Achievement](https://img.shields.io/badge/⚡-Quickdraw-A020F0?style=for-the-badge)](https://github.com/users/madankumaras/achievements/quickdraw)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=madankumaras&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
